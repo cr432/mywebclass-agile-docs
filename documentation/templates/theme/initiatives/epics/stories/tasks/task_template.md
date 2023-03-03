@@ -1,15 +1,16 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: Implement Car Maintenance Recommendations Feature
 
-User Story: [Reference the user story that this task supports]
+User Story: 
+As a car owner, I want to be able to input my car mileage and old maintenance data so that I can receive current maintenance recommendations for my vehicle.
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description:
+This task involves implementing the car maintenance recommendations feature on the website. The feature should allow the user to input their current mileage and old maintenance data, and then receive accurate maintenance recommendations based on the data. The acceptance criteria for this task are that the feature should accurately calculate and display the recommended maintenance items based on the car mileage and old maintenance data entered by the user. The feature should also be user-friendly and intuitive to use, and any error messages or validation issues should be clearly communicated to the user. The task will depend on having accurate and up-to-date maintenance data for different car models.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate:
+10 hours
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: Christopher Ramirez
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: High
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
-
-Notes: [Include]
+Status: Not started
