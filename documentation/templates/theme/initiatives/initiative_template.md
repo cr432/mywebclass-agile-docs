@@ -1,7 +1,7 @@
 "Car Maintenance Tracker"
 
 Description: 
-Develop a user-friendly website that allows car owners to input their car mileage and old maintenance data to receive current maintenance recommendations for their vehicle.
+Develop a user-friendly website that allows car owners to input their car mileage and old maintenance data. This data will then be used to calculate current maintenance recommendations for their vehicle and display it.
 
 Goals: 
 Create a responsive and personalized user experience / Improve customer satisfaction / Enable efficient gathering and processing of input data / Provide accurate maintenance recommendations / Achieve sustainable growth for the business
