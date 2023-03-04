@@ -3,7 +3,7 @@
 Description:
 Develop a website that allows car owners to input their car mileage and old maintenance data to receive current maintenance recommendations for their vehicle.
 
-Goals: Improve customer satisfaction by providing accurate maintenance recommendations / Enable efficient gathering and processing of input data to improve maintenance tracking
+Goals: Improve customer satisfaction by providing accurate maintenance recommendations / Enable efficient gathering and processing of input data to improve maintenance tracking / Provide recommendations in a user-friendly display
 
 User Stories: 
 As a car owner, I want to be able to input my car mileage and old maintenance data so that I can receive current maintenance recommendations for my vehicle / As a user, I want to be able to easily navigate the website and input my car information quickly
