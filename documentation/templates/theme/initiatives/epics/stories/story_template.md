@@ -1,4 +1,4 @@
-As a car owner, I want to be able to input my car mileage and old maintenance data so that I can receive current maintenance recommendations for my vehicle.
+As a car owner, I want to be able to input my car mileage and old maintenance data so that I can receive accurate maintenance recommendations for my vehicle.
 
 Acceptance Criteria:
 
